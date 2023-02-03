@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebClient", "WebClient\WebClient.csproj", "{B686EAE9-55CC-4C47-A326-D211119B0C3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Startup", "Startup\Startup.csproj", "{6EF3E79D-64D6-468B-9E84-76465940868F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B686EAE9-55CC-4C47-A326-D211119B0C3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B686EAE9-55CC-4C47-A326-D211119B0C3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B686EAE9-55CC-4C47-A326-D211119B0C3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B686EAE9-55CC-4C47-A326-D211119B0C3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EF3E79D-64D6-468B-9E84-76465940868F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EF3E79D-64D6-468B-9E84-76465940868F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EF3E79D-64D6-468B-9E84-76465940868F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EF3E79D-64D6-468B-9E84-76465940868F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

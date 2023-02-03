@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pBCuPN8mJDIPJ+EZrszUsAN/ueDbi3y96yBQqGWWOHCrrPK9U/XRZygORydwxHUIffh2fT6K3SL4j/DE2HAVJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amirhosein\\Documents\\Projects\\SDKs\\.NetCore\\Eghamat24\\Eghamat24.SDK\\Startup\\Startup.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amirhosein\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

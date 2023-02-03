@@ -1,0 +1,10 @@
+C:\Users\amirhosein\Documents\Projects\SDKs\.NetCore\Eghamat24\Eghamat24.SDK\WebClient\bin\Debug\netstandard2.1\WebClient.deps.json
+C:\Users\amirhosein\Documents\Projects\SDKs\.NetCore\Eghamat24\Eghamat24.SDK\WebClient\bin\Debug\netstandard2.1\WebClient.dll
+C:\Users\amirhosein\Documents\Projects\SDKs\.NetCore\Eghamat24\Eghamat24.SDK\WebClient\bin\Debug\netstandard2.1\WebClient.pdb
+C:\Users\amirhosein\Documents\Projects\SDKs\.NetCore\Eghamat24\Eghamat24.SDK\WebClient\obj\Debug\netstandard2.1\WebClient.csproj.AssemblyReference.cache
+C:\Users\amirhosein\Documents\Projects\SDKs\.NetCore\Eghamat24\Eghamat24.SDK\WebClient\obj\Debug\netstandard2.1\WebClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amirhosein\Documents\Projects\SDKs\.NetCore\Eghamat24\Eghamat24.SDK\WebClient\obj\Debug\netstandard2.1\WebClient.AssemblyInfoInputs.cache
+C:\Users\amirhosein\Documents\Projects\SDKs\.NetCore\Eghamat24\Eghamat24.SDK\WebClient\obj\Debug\netstandard2.1\WebClient.AssemblyInfo.cs
+C:\Users\amirhosein\Documents\Projects\SDKs\.NetCore\Eghamat24\Eghamat24.SDK\WebClient\obj\Debug\netstandard2.1\WebClient.csproj.CoreCompileInputs.cache
+C:\Users\amirhosein\Documents\Projects\SDKs\.NetCore\Eghamat24\Eghamat24.SDK\WebClient\obj\Debug\netstandard2.1\WebClient.dll
+C:\Users\amirhosein\Documents\Projects\SDKs\.NetCore\Eghamat24\Eghamat24.SDK\WebClient\obj\Debug\netstandard2.1\WebClient.pdb
